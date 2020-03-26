@@ -9,7 +9,7 @@ This work is published in the journal of Medical Image Analysis, 2020.
 
 ![netNorm pipeline]( http://basira-lab.com/netnorm2020/)
 
-In this repository, we release the code to train and test netNorm on multi-view networks of same size. We have also added the estimated CBTs (connectional brain templates) for the data used on the paper for ASD population (subjects with autism spectrum disorder) and NC (normal controls) for both left and right hemispheres (RH and LH).
+In this repository, we release the code to train and test netNorm on multi-view networks of same size. We have also added the estimated CBTs (connectional brain templates) for the data used on the paper for ASD population (subjects with autism spectrum disorder) and NC (normal controls) for both left and right hemispheres (RH and LH) from ABIDE preprocessed dataset (http://preprocessed-connectomes-project.org/abide/). 
 
 
 # Code
