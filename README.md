@@ -21,6 +21,7 @@ This code was implemented using Matlab 2018a on Windows 7.
 We simulate random data sets using the Matlab function simulateData.m. The number of views, the number of subjects and ROIs (must be >20) are fixed by the user. In order to test netNorm on other datasets, upload the data as a cell variable of size n_v (number of views). Each cell stores a view tensor of size m^2*N where m is the number of nodes in the network and N is the number of subjects (samples). Every frontal matrix in the tensor represents a network for a subject j. 
 
 **Install SNF code**
+
 To run netNorm, include SNF code: http://compbio.cs.toronto.edu/SNF/SNF/Software.html.
 
 **Run netNorm**
