@@ -1,4 +1,4 @@
-# netNorm (Network Normalization)
+# netNorm (Network Normalization for Integrating Multi-view Networks)
 netNorm (network normalization) framwork for multi-view network integration (or fusion), created by Salma Dhifallah. Please contact salmadhifalah@gmail.com for inquiries. Thanks. 
 
 This work is published in the journal of Medical Image Analysis, 2020.
